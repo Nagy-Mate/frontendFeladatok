@@ -1,0 +1,57 @@
+.main{
+    width: 80%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t1{
+    font-size: 14px;
+    color: #434343;
+    font-weight: 600;
+}
+
+h1{
+    font-size: 25px;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    width: 350px;
+    height: 140px;
+    margin-right: 25px;
+}
+i{
+    color: #747474;
+    display: inline;
+}
+.card h2{
+    display: inline;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 10px;
+}
+.card .text{
+    font-size: 14px;
+    color: #434343;
+    margin-top: 5px;
+}
+.card .link{
+    display: inline;
+    font-size: 12px;
+    color: #434343;
+    border-bottom: 1px solid rgb(27, 180, 204);
+    width: fit-content;
+    margin-left: 5px;
+}
+.fa-bolt{
+    margin-left: 31px;
+}
+.card p{
+    margin-left: 31px;
+}
+
+a{
+    color: rgb(29, 122, 252);
+}
